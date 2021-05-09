@@ -1,6 +1,6 @@
 # mgo-crud
 REST API [ CRUD ] using GO &amp; MongoDB .
-### Below functionality inmplemented in this repo.
+### Below functionality implemented in this repo.
 
 ```
 
